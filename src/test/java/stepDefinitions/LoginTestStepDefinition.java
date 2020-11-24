@@ -31,7 +31,7 @@ public class LoginTestStepDefinition extends Base {
 		WebDriverUtility.screenShot();
 	}
 
-	@When("^User click  on MyAccount$")
+	@When("^User click on MyAccount$")
 	public void user_click_on_MyAccount() throws Throwable {
 		loginPageObj.clickOnMyAccount();
 		logger.info("User click on My Account");

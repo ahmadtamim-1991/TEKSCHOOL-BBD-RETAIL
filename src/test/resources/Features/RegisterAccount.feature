@@ -15,5 +15,13 @@ Scenario: Register Account for new Retail user
 	And User click on privacy and policy check box
 	And User click on Continue button
 	Then User Should see message 'Your Account Has Been Created!'
+
+	
+	
+	
+
+ 
+	
+   
 	
 
