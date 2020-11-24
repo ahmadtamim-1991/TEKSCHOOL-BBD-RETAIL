@@ -1,0 +1,223 @@
+2020-10-01 21:07:28,960 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-01 21:07:35,593 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-05 21:15:44,185 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-05 21:15:51,240 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-05 21:17:20,930 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-05 21:17:27,529 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-05 21:26:58,221 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-05 21:27:04,843 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-05 21:33:02,344 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-05 21:33:09,432 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-14 19:50:53,563 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-14 19:51:01,484 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-14 20:02:35,537 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-14 20:02:42,255 - logger_File -INFO - Login to MyAccount   passed
+2020-10-14 20:19:55,644 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-14 20:20:03,131 - logger_File -INFO - Retail page is opened
+2020-10-14 20:20:03,140 - logger_File -INFO - Page title  is verified
+2020-10-14 20:20:03,660 - logger_File -INFO - User click on My Account
+2020-10-14 20:20:03,951 - logger_File -INFO - User click on Login
+2020-10-14 20:20:07,335 - logger_File -INFO - User enter email address
+2020-10-14 20:20:07,391 - logger_File -INFO - User enter password
+2020-10-14 20:20:08,237 - logger_File -INFO - User click on Login button
+2020-10-14 20:20:09,146 - logger_File -INFO - Login to MyAccount   passed
+2020-10-14 20:55:44,402 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-14 20:55:51,846 - logger_File -INFO - Retail page is opened
+2020-10-14 20:55:51,855 - logger_File -INFO - Page title  is verified
+2020-10-14 20:55:52,398 - logger_File -INFO - User click on My Account
+2020-10-14 20:55:52,662 - logger_File -INFO - User click on Login
+2020-10-14 20:55:56,031 - logger_File -INFO - User enter email address
+2020-10-14 20:55:56,084 - logger_File -INFO - User enter password
+2020-10-14 20:55:56,943 - logger_File -INFO - User click on Login button
+2020-10-14 20:55:57,919 - logger_File -INFO - Login to MyAccount   passed
+2020-10-14 21:28:22,326 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-14 21:28:30,368 - logger_File -INFO - Retail page is opened
+2020-10-14 21:28:30,375 - logger_File -INFO - Page title  is verified
+2020-10-14 21:28:30,825 - logger_File -INFO - User click on My Account
+2020-10-14 21:28:31,078 - logger_File -INFO - User click on Login
+2020-10-14 21:28:34,459 - logger_File -INFO - User enter email address
+2020-10-14 21:28:34,514 - logger_File -INFO - User enter password
+2020-10-14 21:28:35,360 - logger_File -INFO - User click on Login button
+2020-10-14 21:28:36,332 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-14 21:28:36,335 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-14 21:28:42,872 - logger_File -INFO - Retail page is opened
+2020-10-14 21:28:42,880 - logger_File -INFO - Page title  is verified
+2020-10-14 21:28:43,353 - logger_File -INFO - User click on My Account
+2020-10-14 21:28:43,599 - logger_File -INFO - User click on Login
+2020-10-14 21:28:46,978 - logger_File -INFO - User enter email address
+2020-10-14 21:28:47,032 - logger_File -INFO - User enter password
+2020-10-14 21:28:47,775 - logger_File -INFO - User click on Login button
+2020-10-14 21:28:48,752 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-14 21:28:48,755 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-14 21:28:55,180 - logger_File -INFO - Retail page is opened
+2020-10-14 21:28:55,186 - logger_File -INFO - Page title  is verified
+2020-10-14 21:28:55,756 - logger_File -INFO - User click on My Account
+2020-10-14 21:28:56,011 - logger_File -INFO - User click on Login
+2020-10-14 21:28:59,391 - logger_File -INFO - User enter email address
+2020-10-14 21:28:59,445 - logger_File -INFO - User enter password
+2020-10-14 21:29:00,220 - logger_File -INFO - User click on Login button
+2020-10-14 21:29:01,192 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-15 19:42:44,476 - logger_File -INFO - Scenario Log  out from MyAccount Started 
+2020-10-15 19:42:51,811 - logger_File -INFO - Retail page is opened
+2020-10-15 19:42:51,819 - logger_File -INFO - Page title  is verified
+2020-10-15 19:42:52,379 - logger_File -INFO - User click on My Account
+2020-10-15 19:42:52,631 - logger_File -INFO - User click on Login
+2020-10-15 19:42:56,003 - logger_File -INFO - User enter email address
+2020-10-15 19:42:56,055 - logger_File -INFO - User enter password
+2020-10-15 19:42:56,936 - logger_File -INFO - User click on Login button
+2020-10-15 19:42:57,357 - logger_File -INFO - User click on My Account
+2020-10-15 19:43:03,643 - logger_File -INFO - Log  out from MyAccount   passed
+2020-10-15 19:44:17,005 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-15 19:44:24,391 - logger_File -INFO - Retail page is opened
+2020-10-15 19:44:24,398 - logger_File -INFO - Page title  is verified
+2020-10-15 19:44:24,965 - logger_File -INFO - User click on My Account
+2020-10-15 19:44:25,217 - logger_File -INFO - User click on Login
+2020-10-15 19:44:28,579 - logger_File -INFO - User enter email address
+2020-10-15 19:44:28,633 - logger_File -INFO - User enter password
+2020-10-15 19:44:29,468 - logger_File -INFO - User click on Login button
+2020-10-15 19:44:30,449 - logger_File -INFO - Login to MyAccount   passed
+2020-10-15 19:44:30,455 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 19:44:36,924 - logger_File -INFO - Retail page is opened
+2020-10-15 19:44:36,932 - logger_File -INFO - Page title  is verified
+2020-10-15 19:44:37,507 - logger_File -INFO - User click on My Account
+2020-10-15 19:44:37,749 - logger_File -INFO - User click on Login
+2020-10-15 19:44:41,121 - logger_File -INFO - User enter email address
+2020-10-15 19:44:41,176 - logger_File -INFO - User enter password
+2020-10-15 19:44:41,976 - logger_File -INFO - User click on Login button
+2020-10-15 19:44:42,958 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-15 19:44:42,960 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 19:44:49,411 - logger_File -INFO - Retail page is opened
+2020-10-15 19:44:49,418 - logger_File -INFO - Page title  is verified
+2020-10-15 19:44:49,953 - logger_File -INFO - User click on My Account
+2020-10-15 19:44:50,187 - logger_File -INFO - User click on Login
+2020-10-15 19:44:53,556 - logger_File -INFO - User enter email address
+2020-10-15 19:44:53,612 - logger_File -INFO - User enter password
+2020-10-15 19:44:54,674 - logger_File -INFO - User click on Login button
+2020-10-15 19:44:55,646 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-15 19:44:55,649 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 19:45:02,165 - logger_File -INFO - Retail page is opened
+2020-10-15 19:45:02,171 - logger_File -INFO - Page title  is verified
+2020-10-15 19:45:02,673 - logger_File -INFO - User click on My Account
+2020-10-15 19:45:02,915 - logger_File -INFO - User click on Login
+2020-10-15 19:45:06,271 - logger_File -INFO - User enter email address
+2020-10-15 19:45:06,325 - logger_File -INFO - User enter password
+2020-10-15 19:45:07,072 - logger_File -INFO - User click on Login button
+2020-10-15 19:45:08,026 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-15 19:45:08,031 - logger_File -INFO - Scenario Log  out from MyAccount Started 
+2020-10-15 19:45:14,535 - logger_File -INFO - Retail page is opened
+2020-10-15 19:45:14,541 - logger_File -INFO - Page title  is verified
+2020-10-15 19:45:15,046 - logger_File -INFO - User click on My Account
+2020-10-15 19:45:15,294 - logger_File -INFO - User click on Login
+2020-10-15 19:45:18,664 - logger_File -INFO - User enter email address
+2020-10-15 19:45:18,714 - logger_File -INFO - User enter password
+2020-10-15 19:45:19,550 - logger_File -INFO - User click on Login button
+2020-10-15 19:45:19,957 - logger_File -INFO - User click on My Account
+2020-10-15 19:45:26,272 - logger_File -INFO - Log  out from MyAccount   passed
+2020-10-15 19:47:02,953 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-15 19:47:10,286 - logger_File -INFO - Retail page is opened
+2020-10-15 19:47:10,293 - logger_File -INFO - Page title  is verified
+2020-10-15 19:47:10,867 - logger_File -INFO - User click on My Account
+2020-10-15 19:47:11,200 - logger_File -INFO - User click on Login
+2020-10-15 19:47:14,571 - logger_File -INFO - User enter email address
+2020-10-15 19:48:23,133 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-15 19:48:30,478 - logger_File -INFO - Retail page is opened
+2020-10-15 19:48:30,485 - logger_File -INFO - Page title  is verified
+2020-10-15 19:48:31,069 - logger_File -INFO - User click on My Account
+2020-10-15 19:48:31,310 - logger_File -INFO - User click on Login
+2020-10-15 19:48:34,686 - logger_File -INFO - User enter email address
+2020-10-15 19:48:34,742 - logger_File -INFO - User enter password
+2020-10-15 19:48:35,542 - logger_File -INFO - User click on Login button
+2020-10-15 19:48:36,502 - logger_File -INFO - Login to MyAccount   passed
+2020-10-15 19:48:36,505 - logger_File -INFO - Scenario Log  out from MyAccount Started 
+2020-10-15 19:48:43,789 - logger_File -INFO - Retail page is opened
+2020-10-15 19:48:43,795 - logger_File -INFO - Page title  is verified
+2020-10-15 19:48:44,237 - logger_File -INFO - User click on My Account
+2020-10-15 19:48:44,483 - logger_File -INFO - User click on Login
+2020-10-15 19:58:28,345 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-15 19:58:35,908 - logger_File -INFO - Retail page is opened
+2020-10-15 19:58:35,915 - logger_File -INFO - Page title  is verified
+2020-10-15 19:58:36,480 - logger_File -INFO - User click on My Account
+2020-10-15 19:58:36,728 - logger_File -INFO - User click on Login
+2020-10-15 19:58:40,101 - logger_File -INFO - User enter email address
+2020-10-15 19:58:40,153 - logger_File -INFO - User enter password
+2020-10-15 19:58:40,968 - logger_File -INFO - User click on Login button
+2020-10-15 19:58:42,848 - logger_File -INFO - Login to MyAccount   passed
+2020-10-15 19:58:42,881 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 19:58:49,312 - logger_File -INFO - Retail page is opened
+2020-10-15 19:58:49,318 - logger_File -INFO - Page title  is verified
+2020-10-15 19:58:49,825 - logger_File -INFO - User click on My Account
+2020-10-15 19:58:50,120 - logger_File -INFO - User click on Login
+2020-10-15 19:58:53,486 - logger_File -INFO - User enter email address
+2020-10-15 19:58:53,537 - logger_File -INFO - User enter password
+2020-10-15 19:58:54,359 - logger_File -INFO - User click on Login button
+2020-10-15 19:58:55,335 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-15 19:58:55,339 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 19:59:01,780 - logger_File -INFO - Retail page is opened
+2020-10-15 19:59:01,787 - logger_File -INFO - Page title  is verified
+2020-10-15 19:59:02,294 - logger_File -INFO - User click on My Account
+2020-10-15 19:59:02,546 - logger_File -INFO - User click on Login
+2020-10-15 19:59:05,907 - logger_File -INFO - User enter email address
+2020-10-15 19:59:05,957 - logger_File -INFO - User enter password
+2020-10-15 19:59:06,685 - logger_File -INFO - User click on Login button
+2020-10-15 19:59:07,643 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-15 19:59:07,646 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2020-10-15 19:59:14,048 - logger_File -INFO - Retail page is opened
+2020-10-15 19:59:14,054 - logger_File -INFO - Page title  is verified
+2020-10-15 19:59:14,558 - logger_File -INFO - User click on My Account
+2020-10-15 19:59:14,802 - logger_File -INFO - User click on Login
+2020-10-15 19:59:18,171 - logger_File -INFO - User enter email address
+2020-10-15 19:59:18,225 - logger_File -INFO - User enter password
+2020-10-15 19:59:19,660 - logger_File -INFO - User click on Login button
+2020-10-15 19:59:20,627 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2020-10-15 19:59:20,632 - logger_File -INFO - Scenario Log  out from MyAccount Started 
+2020-10-15 19:59:27,075 - logger_File -INFO - Retail page is opened
+2020-10-15 19:59:27,081 - logger_File -INFO - Page title  is verified
+2020-10-15 19:59:27,600 - logger_File -INFO - User click on My Account
+2020-10-15 19:59:27,855 - logger_File -INFO - User click on Login
+2020-10-15 19:59:31,226 - logger_File -INFO - User enter email address
+2020-10-15 19:59:31,280 - logger_File -INFO - User enter password
+2020-10-15 19:59:32,140 - logger_File -INFO - User click on Login button
+2020-10-15 19:59:32,555 - logger_File -INFO - User click on My Account
+2020-10-15 19:59:38,843 - logger_File -INFO - Log  out from MyAccount   passed
+2020-10-15 21:40:39,893 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-15 21:40:47,512 - logger_File -INFO - Retail page is opened
+2020-10-15 21:40:47,520 - logger_File -INFO - Page title  is verified
+2020-10-15 21:40:48,014 - logger_File -INFO - User click on My Account
+2020-10-15 21:40:48,630 - logger_File -INFO - Register Account for new Retail user   undefined
+2020-10-15 21:44:55,088 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-15 21:45:02,453 - logger_File -INFO - Retail page is opened
+2020-10-15 21:45:02,462 - logger_File -INFO - Page title  is verified
+2020-10-15 21:45:03,057 - logger_File -INFO - User click on My Account
+2020-10-15 21:45:03,678 - logger_File -INFO - Register Account for new Retail user   passed
+2020-10-19 19:43:28,687 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-19 19:43:36,711 - logger_File -INFO - Retail page is opened
+2020-10-19 19:43:36,719 - logger_File -INFO - Page title  is verified
+2020-10-19 19:43:37,277 - logger_File -INFO - User click on My Account
+2020-10-19 19:43:38,041 - logger_File -INFO - user clicked on Register
+2020-10-19 19:43:38,394 - logger_File -INFO - user completed Register form with required information
+2020-10-19 19:43:44,625 - logger_File -INFO - Account was created Successfully
+2020-10-19 19:43:45,555 - logger_File -INFO - Register Account for new Retail user   passed
+2020-10-19 19:47:25,170 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-19 19:47:32,539 - logger_File -INFO - Retail page is opened
+2020-10-19 19:47:32,547 - logger_File -INFO - Page title  is verified
+2020-10-19 19:47:33,099 - logger_File -INFO - User click on My Account
+2020-10-19 19:47:33,690 - logger_File -INFO - user clicked on Register
+2020-10-19 19:47:34,048 - logger_File -INFO - user completed Register form with required information
+2020-10-19 19:48:25,427 - logger_File -INFO - Register Account for new Retail user   failed
+2020-10-21 19:50:12,544 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2020-10-21 19:50:20,403 - logger_File -INFO - Execute all information from Actor Table   undefined
+2020-10-21 19:59:01,803 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2020-10-21 19:59:08,059 - logger_File -INFO - Connection has been established
+2020-10-21 19:59:08,078 - logger_File -INFO - select * from public.actor : has been executed
+2020-10-21 19:59:08,080 - logger_File -INFO - ResultSet is stored in csv file in outcome folder
+2020-10-21 19:59:08,080 - logger_File -INFO - DataBase connection has been closed
+2020-10-21 19:59:08,816 - logger_File -INFO - Execute all information from Actor Table   passed
+2020-10-21 20:01:15,977 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2020-10-21 20:01:22,147 - logger_File -INFO - Connection has been established
+2020-10-21 20:01:22,167 - logger_File -INFO - select * from public.actor : has been executed
+2020-10-21 20:01:22,195 - logger_File -INFO - ResultSet is stored in csv file in outcome folder
+2020-10-21 20:01:22,196 - logger_File -INFO - DataBase connection has been closed
+2020-10-21 20:01:22,770 - logger_File -INFO - Execute all information from Actor Table   passed
+2020-11-10 00:41:21,348 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2020-11-10 00:41:38,024 - logger_File -INFO - Connection has been established
+2020-11-10 00:41:38,732 - logger_File -INFO - Execute all information from Actor Table   failed
