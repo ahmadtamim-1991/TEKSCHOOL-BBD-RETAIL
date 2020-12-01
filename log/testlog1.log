@@ -221,3 +221,53 @@
 2020-11-10 00:41:21,348 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
 2020-11-10 00:41:38,024 [main] INFO logger_File - Connection has been established
 2020-11-10 00:41:38,732 [main] INFO logger_File - Execute all information from Actor Table   failed
+2020-12-01 03:32:28,953 [main] INFO logger_File - Scenario adding product directly to cart Started 
+2020-12-01 03:32:45,210 [main] INFO logger_File - adding product directly to cart   undefined
+2020-12-01 03:32:45,256 [main] INFO logger_File - Scenario adding product from description page Started 
+2020-12-01 03:32:51,990 [main] INFO logger_File - adding product from description page   undefined
+2020-12-01 03:38:25,220 [main] INFO logger_File - Scenario adding product from description page Started 
+2020-12-01 03:38:33,894 [main] INFO logger_File - adding product from description page   passed
+2020-12-01 03:38:33,901 [main] INFO logger_File - Scenario remove product from shopping cart Started 
+2020-12-01 03:38:41,494 [main] INFO logger_File - Retail page is opened
+2020-12-01 03:38:41,507 [main] INFO logger_File - Page title  is verified
+2020-12-01 03:38:43,340 [main] INFO logger_File - remove product from shopping cart   undefined
+2020-12-01 03:43:02,933 [main] INFO logger_File - Scenario adding product from description page Started 
+2020-12-01 03:43:10,996 [main] INFO logger_File - adding product from description page   passed
+2020-12-01 03:43:11,004 [main] INFO logger_File - Scenario Adding item to wish list directly Started 
+2020-12-01 03:43:19,190 [main] INFO logger_File - Retail page is opened
+2020-12-01 03:43:19,253 [main] INFO logger_File - Page title  is verified
+2020-12-01 03:43:21,558 [main] INFO logger_File - Adding item to wish list directly   undefined
+2020-12-01 03:43:21,572 [main] INFO logger_File - Scenario Adding item to wish list from description page Started 
+2020-12-01 03:43:30,593 [main] INFO logger_File - Retail page is opened
+2020-12-01 03:43:30,603 [main] INFO logger_File - Page title  is verified
+2020-12-01 03:43:32,193 [main] INFO logger_File - Adding item to wish list from description page   undefined
+2020-12-01 03:48:04,153 [main] INFO logger_File - Scenario adding product from description page Started 
+2020-12-01 03:48:12,299 [main] INFO logger_File - adding product from description page   passed
+2020-12-01 03:48:12,306 [main] INFO logger_File - Scenario Adding item to wish list directly Started 
+2020-12-01 03:48:19,550 [main] INFO logger_File - Retail page is opened
+2020-12-01 03:48:19,565 [main] INFO logger_File - Page title  is verified
+2020-12-01 03:48:21,420 [main] INFO logger_File - Adding item to wish list directly   passed
+2020-12-01 03:48:21,427 [main] INFO logger_File - Scenario Adding item to wish list from description page Started 
+2020-12-01 03:48:31,349 [main] INFO logger_File - Retail page is opened
+2020-12-01 03:48:31,359 [main] INFO logger_File - Page title  is verified
+2020-12-01 03:48:32,932 [main] INFO logger_File - Adding item to wish list from description page   passed
+2020-12-01 03:49:29,918 [main] INFO logger_File - Scenario adding product from description page Started 
+2020-12-01 03:49:37,637 [main] INFO logger_File - adding product from description page   passed
+2020-12-01 03:49:37,661 [main] INFO logger_File - Scenario Adding item to wish list directly Started 
+2020-12-01 03:49:45,212 [main] INFO logger_File - Retail page is opened
+2020-12-01 03:49:45,223 [main] INFO logger_File - Page title  is verified
+2020-12-01 03:49:46,787 [main] INFO logger_File - Adding item to wish list directly   passed
+2020-12-01 03:49:46,801 [main] INFO logger_File - Scenario Adding item to wish list from description page Started 
+2020-12-01 03:49:54,359 [main] INFO logger_File - Retail page is opened
+2020-12-01 03:49:54,370 [main] INFO logger_File - Page title  is verified
+2020-12-01 03:49:56,554 [main] INFO logger_File - Adding item to wish list from description page   passed
+2020-12-01 03:51:17,940 [main] INFO logger_File - Scenario adding product from description page Started 
+2020-12-01 03:51:25,543 [main] INFO logger_File - adding product from description page   passed
+2020-12-01 03:51:25,566 [main] INFO logger_File - Scenario Adding item to wish list directly Started 
+2020-12-01 03:51:32,870 [main] INFO logger_File - Retail page is opened
+2020-12-01 03:51:32,881 [main] INFO logger_File - Page title  is verified
+2020-12-01 03:51:34,764 [main] INFO logger_File - Adding item to wish list directly   undefined
+2020-12-01 03:51:34,768 [main] INFO logger_File - Scenario Adding item to wish list from description page Started 
+2020-12-01 03:51:41,654 [main] INFO logger_File - Retail page is opened
+2020-12-01 03:51:41,663 [main] INFO logger_File - Page title  is verified
+2020-12-01 03:51:43,055 [main] INFO logger_File - Adding item to wish list from description page   undefined

@@ -3,10 +3,55 @@
     "line": 1,
     "elements": [
       {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 104674400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is logged in to account",
+            "match": {
+              "location": "AddToCartStepDefinition.user_is_logged_in_to_account()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 35600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click on Desktop tab",
+            "match": {
+              "location": "AddToCartStepDefinition.user_click_on_Desktop_tab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 19600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User select Mac",
+            "match": {
+              "location": "AddToCartStepDefinition.user_select_Mac()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
         "before": [
           {
             "result": {
-              "duration": 14436088299,
+              "duration": 6921477100,
               "status": "passed"
             },
             "match": {
@@ -14,14 +59,14 @@
             }
           }
         ],
-        "line": 4,
-        "name": "Execute all information from Actor Table",
+        "line": 12,
+        "name": "adding product from description page",
         "description": "",
-        "id": "database-sql-query-feature;execute-all-information-from-actor-table",
+        "id": "add-products-to-shopping-cart;adding-product-from-description-page",
         "after": [
           {
             "result": {
-              "duration": 676868699,
+              "duration": 647495900,
               "status": "passed"
             },
             "match": {
@@ -34,59 +79,286 @@
         "steps": [
           {
             "result": {
-              "duration": 2299751400,
+              "duration": 25400,
               "status": "passed"
             },
-            "line": 5,
-            "name": "User connects to PostgreSQL",
+            "line": 13,
+            "name": "User click on product image or link",
             "match": {
-              "location": "SqlQueryStepDefinition.user_connects_to_PostgreSQL()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 4247700,
-              "error_message": "java.lang.NullPointerException\r\n\tat utilities.DataBaseUtility.runQuery(DataBaseUtility.java:61)\r\n\tat stepDefinitions.SqlQueryStepDefinition.user_sends(SqlQueryStepDefinition.java:20)\r\n\tat ✽.When User sends \"select * from public.actor\"(Features/DataBaseFeature.feature:6)\r\n",
-              "status": "failed"
-            },
-            "line": 6,
-            "name": "User sends \"select * from public.actor\"",
-            "match": {
-              "arguments": [
-                {
-                  "val": "select * from public.actor",
-                  "offset": 12
-                }
-              ],
-              "location": "SqlQueryStepDefinition.user_sends(String)"
+              "location": "AddToCartStepDefinition.user_click_on_product_image_or_link()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "status": "skipped"
+              "duration": 196900,
+              "status": "passed"
             },
-            "line": 7,
-            "name": "User should get all information from that table",
+            "line": 14,
+            "name": "User is in product description page",
             "match": {
-              "location": "SqlQueryStepDefinition.user_should_get_all_information_from_that_table()"
+              "location": "AddToCartStepDefinition.user_is_in_product_description_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 30500,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User input product \u0027quantity\u0027",
+            "match": {
+              "location": "AddToCartStepDefinition.user_input_product_quantity()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 80400,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User click on ADD TO CART button",
+            "match": {
+              "location": "AddToCartStepDefinition.user_click_on_ADD_TO_CART_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 21300,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "\u0027Success: You have added iMac to your shopping cart!\u0027 shoud be displayed",
+            "match": {
+              "location": "AddToCartStepDefinition.success_You_have_added_iMac_to_your_shopping_cart_shoud_be_displayed()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "line": 3,
-            "name": "@sqlquery"
+            "line": 11,
+            "name": "@tamim"
           }
         ]
       }
     ],
-    "name": "Database SQL query feature",
+    "name": "add Products to shopping Cart",
     "description": "",
-    "id": "database-sql-query-feature",
+    "id": "add-products-to-shopping-cart",
     "keyword": "Feature",
-    "uri": "Features/DataBaseFeature.feature"
+    "uri": "Features/AddProduct.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2338043100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Retail website",
+            "match": {
+              "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "User is Logged in into account",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "User click on Tablets tab",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5663692200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.beforeHooks(Scenario)"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Adding item to wish list directly",
+        "description": "",
+        "id": "add-product-to-wish-list;adding-item-to-wish-list-directly",
+        "after": [
+          {
+            "result": {
+              "duration": 1199154600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.afterHooks(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "User click on Heart icon",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "User should see \u0027Success: You have added Samsung Galaxy Tab 10.1 to your wish list!\u0027",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 7,
+            "name": "@tamim"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2178024400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on Retail website",
+            "match": {
+              "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "User is Logged in into account",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "User click on Tablets tab",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5459471100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.beforeHooks(Scenario)"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Adding item to wish list from description page",
+        "description": "",
+        "id": "add-product-to-wish-list;adding-item-to-wish-list-from-description-page",
+        "after": [
+          {
+            "result": {
+              "duration": 646344000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.afterHooks(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "User click on item image",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "User click on Heart icon inside description page",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 16,
+            "name": "User should see \u0027Success: You have added Samsung Galaxy Tab 10.1 to your wish list!\u0027",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 12,
+            "name": "@tamim"
+          }
+        ]
+      }
+    ],
+    "name": "Add Product to Wish List",
+    "description": "",
+    "id": "add-product-to-wish-list",
+    "keyword": "Feature",
+    "uri": "Features/AddToWishList.feature"
   }
 ]

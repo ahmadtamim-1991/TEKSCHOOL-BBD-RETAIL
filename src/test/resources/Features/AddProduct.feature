@@ -8,7 +8,7 @@ Background:
 Scenario: adding product directly to cart
 When User click on ADD TO CART label
 Then 'Success: You have added iMac to your shopping cart!' shoud be displayed
-
+@tamim
 Scenario: adding product from description page
 When User click on product image or link
 And User is in product description page
